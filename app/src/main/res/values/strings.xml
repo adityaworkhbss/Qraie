@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+<string name="title_activity_main">QRAIE</string>
+    <string name="package_name">com.qryde.qraie</string>
+    <string name="custom_url_scheme">com.qryde.qraie</string>
+
+    <!-- Push Notification Channels -->
+    <!-- Channel: Chat Messages (High Priority) -->
+    <string name="channel_chat_name">Chat Messages</string>
+    <string name="channel_chat_description">Real-time chat messages and direct conversations</string>
+
+    <!-- Channel: ASQ Updates (Default Priority) -->
+    <string name="channel_asq_name">ASQ Tickets</string>
+    <string name="channel_asq_description">Ticket updates, assignments, and status changes</string>
+
+    <!-- Channel: Alerts (High Priority) -->
+    <string name="channel_alerts_name">Alerts</string>
+    <string name="channel_alerts_description">Critical alerts, escalations, and urgent notifications</string>
+
+    <!-- Channel: Default/General (Default Priority) -->
+    <string name="channel_default_name">General</string>
+    <string name="channel_default_description">General notifications and updates</string>
+
+    <!-- Channel: Notifications (Backend Default) -->
+    <string name="channel_notifications_name">Notifications</string>
+    <string name="channel_notifications_description">Standard app notifications</string>
+
+    <!-- FCM Default Channel (required for Firebase) -->
+    <string name="default_notification_channel_id">qraie_default</string>
+</resources>

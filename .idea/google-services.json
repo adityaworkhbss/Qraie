@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "606336113320",
+    "project_id": "qraie-ae366",
+    "storage_bucket": "qraie-ae366.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606336113320:android:88d8fb98c0aabc9fc4009d",
+        "android_client_info": {
+          "package_name": "com.qraie.pushnotificationtester"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoL9Gz7x-G2ZWHcRzR0ib_beiHAVj0u6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:606336113320:android:7f54a846df063bc5c4009d",
+        "android_client_info": {
+          "package_name": "com.qryde.qraie"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoL9Gz7x-G2ZWHcRzR0ib_beiHAVj0u6k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

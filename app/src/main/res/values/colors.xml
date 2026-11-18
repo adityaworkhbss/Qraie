@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary brand color - used for notification icon tint and accents -->
+    <color name="colorPrimary">#3B82F6</color>
+    <color name="colorPrimaryDark">#2563EB</color>
+    <color name="colorAccent">#3B82F6</color>
+
+    <!-- Status bar background -->
+    <color name="statusBarColor">#F1F5F8</color>
+
+    <!-- Notification colors by type -->
+    <color name="notificationColorChat">#3B82F6</color>
+    <color name="notificationColorASQ">#8B5CF6</color>
+    <color name="notificationColorAlert">#EF4444</color>
+</resources>
+
